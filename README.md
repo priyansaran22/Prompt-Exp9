@@ -1,7 +1,7 @@
 # Exno.9-Exploration of Prompting Techniques for Video Generation
 
 # Date: 04-09-2026
-# Reg. No.: 212225060282
+# Reg. No.: 212225060250
 
 # Aim:
 To demonstrate the ability of text-to-video generation tools to reproduce an existing video by crafting precise prompts. The goal is to identify key elements within the video and use these details to generate a video as close as possible to the original.
